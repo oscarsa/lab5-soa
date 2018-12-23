@@ -7,6 +7,7 @@ NIA    | User name | Repo | Improvement | Score
 | 716205 | [Ángel Cañal Muniesa](https://github.com/lAngelP) | [Test branch](https://github.com/lAngelP/lab4-websockets/tree/test) | Improve the project by retrieving the tweets of a hashtag in real time [here](https://github.com/lAngelP/lab4-websockets/blob/websockets/README.md) |  |
 | 718911 | [jorgeRambla](https://github.com/jorgeRambla) |[test](https://github.com/jorgeRambla/lab5-soa/tree/test) | | 
 | 717788 | [Carlos Marañes](https://github.com/carlosmn1997) |[test](https://github.com/carlosmn1997/lab5-soa/tree/test) | | 
+| 782996 | [Rosario Lissandrello](https://github.com/rslissa)|[test](https://github.com/rslissa/lab5-soa.git) | |
 | 651943 | [Víctor Fernández Melic](https://github.com/Melic93) |[test](https://github.com/Melic93/lab5-soa/tree/test) | | 
 | 720100 | [Roberto CCU](https://github.com/robertoccu) |[test](https://github.com/robertoccu/lab5-soa/tree/test) | | 
 | | | | |
