@@ -10,4 +10,5 @@ NIA    | User name | Repo | Improvement | Score
 | 782996 | [Rosario Lissandrello](https://github.com/rslissa)|[test](https://github.com/rslissa/lab5-soa.git) | |
 | 651943 | [Víctor Fernández Melic](https://github.com/Melic93) |[test](https://github.com/Melic93/lab5-soa/tree/test) | | 
 | 720100 | [Roberto CCU](https://github.com/robertoccu) |[test](https://github.com/robertoccu/lab5-soa/tree/test) | | 
+| 706430 | [Óscar Saboya Gómez](https://github.com/oscarsa) |[test](https://github.com/oscarsa/lab5-soa/tree/test) | | 
 | | | | |
